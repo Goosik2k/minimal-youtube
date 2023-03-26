@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/logo.png" width="150">
+  <img src="src/public/logo.svg" width="150">
   <h1>Minimal YouTube</h1>
 </div>
 
@@ -25,7 +25,7 @@ Minimal YouTube is an extension that replaces the YouTube UI with a minimal desi
 </p>
 
 <p align="center">
-  <img src="assets/screenshot-chrome.png" width="1080" alt="Minimal Youtube on Gooogle Chrome">
+  <img src="src/public/screenshot-chrome.png" width="1080" alt="Minimal Youtube on Gooogle Chrome">
 </p>
 
 ## Installation (Chrome or Microsoft Edge)
