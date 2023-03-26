@@ -10,6 +10,12 @@
     "48": "icon/48x48.png",
     "128": "icon/128x128.png"
   },
+  "{{chrome}}.action": {
+    "default_popup": "popup/popup.html"
+  },
+  "{{firefox}}.browser_action": {
+    "default_popup": "popup/popup.html"
+  },
   "background": {
     "{{chrome}}.service_worker": "background.ts",
     "{{firefox}}.scripts": ["background.ts"]
